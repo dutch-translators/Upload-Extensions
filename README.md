@@ -1,7 +1,7 @@
 Quick-Style
 ===========
 
-Dutch translation of the Quick Style extension by JohnP and LavIgor
+Dutch translation of the Upload Extensions extension by JohnP and LavIgor
 
 Installatie
 ===========
