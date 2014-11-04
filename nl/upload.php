@@ -18,9 +18,9 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACP_UPLOAD_EXT_TITLE'				=> 'Upload Extensions',
-	'ACP_UPLOAD_EXT_CONFIG_TITLE'		=> 'Upload extensions',
-	'ACP_UPLOAD_EXT_TITLE_EXPLAIN'		=> 'Upload Extensions maakt het mogelijk om zip bestanden van extensies te üploaden of extensies te verwijderen.<br />Met deze extensie kun je extensies installeren/updaten/verwijderen zonder FTP te gebruiken. Als de geüploade extensie al bestaat, wordt de huidige extensie geüpdatet.',
+	'ACP_UPLOAD_EXT_TITLE'				=> 'Upload Extensies',
+	'ACP_UPLOAD_EXT_CONFIG_TITLE'		=> 'Upload extensies',
+	'ACP_UPLOAD_EXT_TITLE_EXPLAIN'		=> 'Upload Extensies maakt het mogelijk om zip bestanden van extensies te üploaden of extensies te verwijderen.<br />Met deze extensie kun je extensies installeren/updaten/verwijderen zonder FTP te gebruiken. Als de geüploade extensie al bestaat, wordt de huidige extensie geüpdatet.',
 	'UPLOAD'							=> 'Uploaden',
 	'BROWSE'							=> 'Bladeren...',
 	'EXTENSION_UPLOAD'					=> 'Upload extensie',
