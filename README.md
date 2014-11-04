@@ -1,7 +1,7 @@
 Quick-Style
 ===========
 
-Dutch translation of the Quick Style extension by Paybas
+Dutch translation of the Quick Style extension by JohnP and LavIgor
 
 Installatie
 ===========
