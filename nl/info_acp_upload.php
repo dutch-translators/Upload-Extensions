@@ -18,6 +18,6 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACP_UPLOAD_EXT_TITLE'				=> 'Upload Extensions',
-	'ACP_UPLOAD_EXT_CONFIG_TITLE'		=> 'Upload extensions',
+	'ACP_UPLOAD_EXT_TITLE'				=> 'Upload Extensies',
+	'ACP_UPLOAD_EXT_CONFIG_TITLE'		=> 'Upload extensies',
 ));
