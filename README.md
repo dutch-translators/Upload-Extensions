@@ -1,4 +1,4 @@
-Quick-Style
+Upload-Extensions
 ===========
 
 Dutch translation of the Upload Extensions extension by JohnP and LavIgor
