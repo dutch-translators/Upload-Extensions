@@ -3,6 +3,7 @@
 *
 * @package Upload Extensions
 * @copyright (c) 2014 John Peskens (http://ForumHulp.com) and Igor Lavrov (https://github.com/LavIgor)
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
